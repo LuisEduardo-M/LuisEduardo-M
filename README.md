@@ -3,7 +3,7 @@
 - :heart: Love games and technology stuff !
 - 👀 I’m interested in **Mobile App Development** !
 - :book: I’m currently mastering **Flutter** and **Dart** ! 
-- 📝 Learning **Vim**
+- 📝 Learning **Vim** !
 
 ### Programming languages and softwares
 <div style='display: inline_block'><br>
