@@ -1,9 +1,9 @@
  # Hi, I’m Luis Eduardo 👋
 - :desktop_computer: Dev from Brazil ! 
 - :heart: Love games and technology stuff !
-- 👀 I’m interested in **Mobile App Development** !
+- 👀 I’m interested in **Mobile App and Web Development** !
 - :book: I’m currently mastering **Flutter** and **Dart** ! 
-- 📝 Learning **Linux** !
+- 📝 Learning **Java and JavaScript** !
 
 ### Programming languages and softwares
 <div style='display: inline_block'><br>
