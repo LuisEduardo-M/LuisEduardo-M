@@ -5,6 +5,10 @@
 - :book: My hobby is reading **books** ! 
 - 📝 Learning **JavaScript** !
 
+### How to contact me 
+- :envelope_with_arrow: E-mail: luiseduardomc019@gmail.com
+- :arrow_right:<a href="www.linkedin.com/in/luiseduardomedunacabreira">LinkedIn</a>
+
 ### Programming languages and softwares
 <div style='display: inline_block'><br>
  
