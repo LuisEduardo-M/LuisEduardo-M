@@ -1,13 +1,14 @@
  # Hi, I’m Luis Eduardo 👋
+ ### About Me
 - :desktop_computer: Dev from Brazil ! 
 - :heart: Love **games** and **new technologies** !
 - 👀 I’m interested in **Web Development** !
 - :book: My hobby is reading **books** ! 
 - 📝 Learning **JavaScript** !
 
-### How to contact me 
+### How to reach me 
 - :envelope_with_arrow: E-mail: luiseduardomc019@gmail.com
-- :arrow_right:<a href="www.linkedin.com/in/luiseduardomedunacabreira">LinkedIn</a>
+- :arrow_right: LinkedIn: www.linkedin.com/in/luiseduardomedunacabreira
 
 ### Programming languages and softwares
 <div style='display: inline_block'><br>
