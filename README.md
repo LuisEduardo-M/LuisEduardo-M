@@ -1,10 +1,9 @@
  # Hi, I’m Luis Eduardo 👋
  ### About Me
-- :desktop_computer: Dev from Brazil ! 
-- :heart: Love **games** and **new technologies** !
+- :desktop_computer: Dev from **Brazil** ! 
+- :heart: Passionate about **learning new tecnologies** ! 
 - 👀 I’m interested in **Web Development** !
-- :book: My hobby is reading **books** ! 
-- 📝 Learning **JavaScript** !
+- 📝 Learning **ReactJS** and BackEnd with **Golang** !
 
 ### How to reach me 
 - :envelope_with_arrow: E-mail: luiseduardomc019@gmail.com
