@@ -3,7 +3,7 @@
 - :desktop_computer: Dev from **Brazil** ! 
 - :heart: Passionate about **learning new tecnologies** ! 
 - 👀 I’m interested in **Web Development** !
-- 📝 Learning **ReactJS** and Back-End with **Golang** !
+- 📝 Learning **Full-Stack** with **ReactJS** and **Golang** !
 
 ### How to reach me 
 - :envelope_with_arrow: E-mail: luiseduardomc019@gmail.com
