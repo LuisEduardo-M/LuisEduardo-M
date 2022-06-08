@@ -3,7 +3,7 @@
 - :desktop_computer: Dev from **Brazil** ! 
 - :heart: I'm passionate about **learning new technologies** ! 
 - 👀 Focus: Front/Back-end development !
-- 📝 Learning **NextJS** and **Golang** !
+- 📝 Learning **NodeJS** and **Golang** !
 
 ### How to reach me 
 - :envelope_with_arrow: E-mail: luiseduardomc019@gmail.com
